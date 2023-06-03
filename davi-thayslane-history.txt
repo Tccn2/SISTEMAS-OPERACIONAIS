@@ -1,0 +1,189 @@
+  578  sudo useradd aluno-davi-thayslane
+  579  sudo groupadd lab01-davi-thayslane
+  580  sudo groupadd lab02-davi-thayslane
+  581  sudo groupadd lab03-davi-thayslane
+  582  sudo groupadd alunos-davi-thayslane
+  583  sudo groupadd professores-davi-thayslane
+  584  sudo groupadd todos-davi-thayslane
+  585  users
+  586  groups
+  587  mkdir lab01-davi-thayslane /home/alunoifal/davi-thayslane
+  588  mkdir lab02-davi-thayslane /home/alunoifal/davi-thayslane
+  589  mkdir /home/alunoifal/davi-thayslane lab02
+  590  mkdir /home/alunoifal/davi-thayslane lab02-davi-thayslane
+  591  mkdir /home/alunoifal/davi-thayslane lab03-davi-thayslane
+  592  mkdir /home/alunoifal/davi-thayslane/davi-thayslane/lab01-davi-thayslane
+  593  mkdir /home/alunoifal/davi-thayslane/davi-thayslane lab01-davi-thayslane
+  594  mkdir /home/alunoifal/davi-thayslane/davi-thayslane lab02-davi-thayslane
+  595  mkdir /home/alunoifal/davi-thayslane/davi-thayslane lab03-davi-thayslane
+  596  mkdir /home/alunoifal/davi-thayslane/davi-thayslane/lab03-davi-thayslane
+  597  mkdir /home/alunoifal/davi-thayslane/davi-thayslane/lab01-davi-thayslane
+  598  mkdir /home/alunoifal/davi-thayslane/davi-thayslane/lab02-davi-thayslane
+  599  mkdir /home/alunoifal/davi-thayslane/davi-thayslane/alunos-davi-thayslane
+  600  mkdir /home/alunoifal/davi-thayslane/davi-thayslane/professores-davi-thayslane
+  601  history
+  602  chown man
+  603  help
+  604  ls - l
+  605  ls -l
+  606  chown fromalunoifal :alunoifal aluno-davi-thayslane:lab01-davi-thayslane
+  607  chown from alunoifal:alunoifal aluno-davi-thayslane:laab01-davi-thayslane
+  608  chown alunoifal:alunoifal aluno-davi-thayslane:lab01-davi-thayslane
+  609  chown alunoifal:alunoifal aluno-davi-thayslane : lab01-davi-thayslane lab01-davi-thayslane
+  610  chown alunoifal:alunoifal aluno-davi-thayslane:lab01-davi-thayslane lab01-davi-thayslane
+  611  chown alunoifal:alunoifal: aluno-davi-thayslane : lab01-davi-thayslane lab01-davi-thayslane
+  612  groups
+  613  users
+  614  chown alunoifal:alunoifal sudo: aluno-davi-thayslane : lab01-davi-thayslane lab01-davi-thayslane
+  615  ls -l
+  616  sudo chown :lab01-davi-thayslane lab01-davi-thayslane
+  617  ls -l
+  618  sudo chown aluno-davi-thayslane: lab01-davi-thayslane
+  619  ls - l
+  620  ls -l
+  621  sudo chown :lab01-davi-thayslane lab01-davi-thayslane
+  622  ls -l
+  623  sudo chown aluno-davi-thayslane: lab02-davi-thayslane
+  624  sudo chown :lab02-davi-thayslane lab02-davi-thayslane
+  625  ls -l
+  626  sudo chown aluno-davi-thayslane: lab03-davi-thayslane
+  627  sudo chown :lab03-davi-thayslane lab03-davi-thayslane
+  628  ls -l
+  629  sudo chown aluno-davi-thayslane: alunos-davi-thayslane
+  630  mkdir /home/alunoifal/davi-thayslane/davi-thayslane/alunos-davi-thayslane
+  631  sudo chown aluno-davi-thayslane: alunos-davi-thayslane
+  632  sudo chown aluno-davi-thayslane: linuxlixo
+  633  sudo chown :aluno-davi-thayslane alunos-davi-thayslane
+  634  pwd
+  635  cd davi-thayslane
+  636  ls
+  637  sudo chown aluno-davi-thayslane:alunos-davi-thayslane alunos-davi-thayslane
+  638  ls
+  639  cd ..
+  640  ls
+  641  sudo chown aluno-davi-thayslane:alunos-davi-thayslane alunos-davi-thayslane
+  642  cd davi-thayslane
+  643  pwd
+  644  ls
+  645  mkdir alunos-davi-thayslane
+  646  ls -l
+  647  sudo chown aluno-davi-thayslane: alunos-davi-thayslane
+  648  sudo chown :alunos-davi-thayslane davi-thayslane
+  649  sudo chown :alunos-davi-thayslane alunos-davi-thayslane
+  650  cd ..
+  651  cd davi-thayslane
+  652  ls -l
+  653  sudo chown aluno-davi-thayslane:lab01-davi-thayslane lab01-davi-thayslane
+  654  ls -l
+  655  sudo chown aluno-davi-thayslane:lab02-davi-thayslane lab02-davi-thayslane
+  656  sudo chown aluno-davi-thayslane:lab03-davi-thayslane lab03-davi-thayslane
+  657  sudo chown aluno-davi-thayslane:todos-davi-thayslane todos-davi-thayslane
+  658  mkdir todos-davi-thayslane
+  659  mkdir aluno-davi-thayslane:todos-davi-thayslane todos-davi-thayslane
+  660  ls -l
+  661  sudo chown aluno-davi-thayslane:todos-davi-thayslane todos-davi-thayslane
+  662  ls -l
+  663  pwd
+  664  cd..
+  665  cd ..
+  666  pwd
+  667  chmod 600 lab01
+  668  chmod 600 lab01-davi-thayslane
+  669  sudo chmod 600 lab01-davi-thayslane
+  670  ls-l
+  671  ls - l
+  672  ls -l
+  673  history man
+  674  man history
+  675  history
+  676  sudo chmod 040 lab02-davi-thayslane
+  677  sudo chmod 050 lab03-davi-thayslane
+  678  sudo chmod 040 todos-davi-thayslane
+  679  ls
+  680  cd davi-thayslane
+  681  ls -l
+  682  chmod 040 todos-davi-thayslane
+  683  sudo chmode 040 todos-davi-thayslane
+  684  chmode 040 todos-davi-thayslane
+  685  sudo chmode 040 todos-davi-thayslane
+  686  sudo chmod 040 todos-davi-thayslane/
+  687  sudo chmod 040 todos-davi-thayslane
+  688  ls -l
+  689  sudo chmode 004 todos-davi-thayslane
+  690  sudo chmod 004 todos-davi-thayslane
+  691  cd ..
+  692  sudo su aluno-davi-thayslane
+  693  sudo useradd aluno-davi-thayslane
+  694  sudo groupadd lab01-davi-thayslane
+  695  sudo groupadd lab02-davi-thayslane
+  696  sudo groupadd lab03-davi-thayslane
+  697  sudo groupadd alunos-davi-thayslane
+  698  sudo groupadd professores-davi-thayslane
+  699  sudo groupadd todos-davi-thayslane
+  700  pwd
+  701  cd alunoifal/davi-thayslane
+  702  mkdir alunoifal/davi-thayslane
+  703  sudo mkdir alunoifal/davi-thayslane
+  704  ls -l
+  705  mkdir alunoifal/davi-thayslane
+  706  pwd
+  707  mkdir davi-thayslane
+  708  ls
+  709  cd davi-thayslane/
+  710  ls
+  711  mkdir lab01-davi-thayslane
+  712  mkdir lab02-davi-thayslane
+  713  mkdir lab03-davi-thayslane
+  714  mkdir alunos-davi-thayslane
+  715  mkdir professores-davi-thayslane
+  716  sudo chown aluno-davi-thayslane: lab01-davi-thayslane
+  717  sudo chown :lab01-davi-thayslane lab01-davi-thayslane 
+  718  ls -l
+  719  sudo chown aluno-davi-thayslane:lab02-davi-thayslane lab02-davi-thayslane
+  720  sudo chown aluno-davi-thayslane:lab03-davi-thayslane lab03-davi-thayslane
+  721  sudo chown aluno-davi-thayslane:alunos-davi-thayslane alunos-davi-thayslane
+  722  sudo chown aluno-davi-thayslane:todos-davi-thayslane todos-davi-thayslane
+  723  groupadd todos-davi-thayslane
+  724  sudo chown aluno-davi-thayslane:todos-davi-thayslane todos-davi-thayslane
+  725  cd..
+  726  cd ..
+  727  cd davi-thayslane
+  728  ls
+  729  mkdir todos-davi-thayslane
+  730  sudo chown aluno-davi-thayslane:todos-davi-thayslane todos-davi-thayslane
+  731  history
+  732  sudo chmod 060 lab01-davi-thayslane
+  733  sudo chmod 040 lab02-davi-thayslane
+  734  sudo chmod 010 lab03-davi-thayslane
+  735  sudo chmod 040 alunos-davi-thayslane
+  736  sudo chmod 020 alunos-davi-thayslane
+  737  sudo chmod 040 todos-davi-thayslane
+  738  sudo chmod 044, todos-davi-thayslane
+  739  sudo chmod 044~ todos-davi-thayslane
+  740  sudo chmod 044 todos-davi-thayslane
+  741  history
+  742  sudo delaluno-davi-thayslane
+  743  sudo deluser aluno-davi-thayslane
+  744  sudo adduser aluno-davi-thayslane
+  745  sudo su aluno-davi-thayslane
+  746  deluseraluno-davi-thayslane
+  747  sudo deluser aluno-davi-thayslane
+  748  adduser aluno-davi-thayslane
+  749  sudo adduser aluno-davi-thayslane
+  750  ls
+  751  sudo su aluno-davi-thayslane
+  752  exit
+  753  sudo deluser aluno-davi-thayslane
+  754  delgroup lab01-davi-thayslane
+  755  sudop delgroup lab01-davi-thayslane
+  756  sudo delgroup lab01-davi-thayslane
+  757  sudo delgroup lab02-davi-thayslane
+  758  sudo delgroup lab03-davi-thayslane
+  759  sudo delgroup alunos-davi-thayslane
+  760  sudo delgroup professores-davi-thayslane
+  761  sudo delgroup todos-davi-thayslane
+  762  history
+  763  history > davi-thayslane-history.txt
+  764  pwd
+  765  cd 'Área de Trabalho'
+  766  history > davi-thayslane-history.txt

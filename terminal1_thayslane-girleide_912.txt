@@ -1,0 +1,32 @@
+    1  mkdir thayslane_girleide
+    2  cd thayslane_girleide/
+    3  mkdir disciplinas
+    4  cd disciplinas/
+    5  cd ..
+    6  /home/alunoifal/thayslane_girleide/SO_temp
+    7  mkdir /home/alunoifal/thayslane_girleide/SO_temp
+    8  ls
+    9  man touch
+   10  mv SO_temp/ SO_2023
+   11  ls
+   12  cd disciplinas
+   13  lks
+   14  ls
+   15  cd ..
+   16  mkdir SO
+   17  ls
+   18  mv SO_2023 disciplinas/
+   19  ls
+   20  rm -d SO
+   21  ls
+   22  cd disciplinas/
+   23  ls
+   24  cd ..
+   25  cd disciplinas/
+   26  cd SO_2023/
+   27  touch notas.txt
+   28  ls
+   29  cd
+   30  toch terminal_thayslane-girleide_912.txt
+   31  touch terminal_thayslane-girleide_912.txt
+   32  history > terminal_thayslane-girleide_912.txt 
